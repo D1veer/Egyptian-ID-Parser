@@ -16,5 +16,5 @@ A simple Python script that extracts useful information from an Egyptian Nationa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/d1veer/egyptian-id-parser.git
+   git clone https://github.com/D1veer/Egyptian-ID-Parser.git
    cd egyptian-id-parser
