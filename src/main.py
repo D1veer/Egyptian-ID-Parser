@@ -29,7 +29,7 @@ def parse_egyptian_id(card_id: str) -> dict:
         34: "North Sinai", 35: "South Sinai"
     }
     gov_code = int("".join(digits[7:9]))
-    governorate = governorates.get(gov_code, "Unknown")
+    governorate = governorates.get(gov_code, "Born OutSide Egypt")
 
     # Age
     today = datetime.today()
